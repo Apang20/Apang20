@@ -12,12 +12,6 @@ My name is Avelon Pang and I am a full-stack software engineer. I'm from Austin,
 ![image](https://user-images.githubusercontent.com/62185859/112547353-a6e49900-8d88-11eb-8536-ee18e0e9a656.png)
 ![image](https://user-images.githubusercontent.com/62185859/112547389-afd56a80-8d88-11eb-8ea7-ee7330f57000.png)
 
-
-
-
-
-Skills: JS / React / Ruby / Rails / HTML / CSS / PostgreSQL / Material-UI / Chakra-UI
-
 - 🔭 I’m currently working on my portfolio 
 - 🌱 I’m currently learning React Hooks and Redux 
 - 💬 Ask me about anything! 
