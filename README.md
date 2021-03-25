@@ -7,7 +7,7 @@ My name is Avelon Pang and I am a full-stack software engineer. I'm from Austin,
 - 💬 Ask me about anything! 
 - 😄 Pronouns: she/her/hers 
 - ⚡ Fun fact: I was part-time professional Disney princess 
-- 
+
 ### Skills and Experience
 ![image](https://user-images.githubusercontent.com/62185859/112547931-6e918a80-8d89-11eb-962a-c3592e2c7489.png)
 ![image](https://user-images.githubusercontent.com/62185859/112546862-042c1a80-8d88-11eb-8ed2-5b87228d7f82.png)
