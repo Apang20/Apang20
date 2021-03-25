@@ -3,7 +3,7 @@
 My name is Avelon Pang and I am a full-stack software engineer. I'm from Austin, Texas and recently graduated from Flatiron School's full-immersive software engineering bootcamp in March 2021. I have a passion for applying new technologies and Nancy Drew-like skills for technical problem solving!
 
 ## Skills and Experience
-![image](https://user-images.githubusercontent.com/62185859/112546621-a5ff3780-8d87-11eb-9f1e-7e4c6d577ab8.png)
+![image](https://user-images.githubusercontent.com/62185859/112546862-042c1a80-8d88-11eb-8ed2-5b87228d7f82.png)
 
 
 Skills: JS / React / Ruby / Rails / HTML / CSS / PostgreSQL / Material-UI / Chakra-UI
