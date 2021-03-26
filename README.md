@@ -8,7 +8,7 @@ My name is Avelon Pang and I am a full-stack software engineer. I'm from Austin,
 - 😄 Pronouns: she/her/hers 
 - 👑 Fun fact: I was part-time professional Disney princess 
 
-## Technologies
+## Skills & Experience 
 Ruby - Ruby on Rails - SQL - PostgreSQL - JavaScript - React - HTML - CSS - Material-UI 
 
 ## Let's Connect!
