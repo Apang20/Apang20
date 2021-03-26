@@ -9,14 +9,7 @@ My name is Avelon Pang and I am a full-stack software engineer. I'm from Austin,
 - 👑 Fun fact: I was part-time professional Disney princess 
 
 ## Skills and Experience
-![image](https://user-images.githubusercontent.com/62185859/112547931-6e918a80-8d89-11eb-962a-c3592e2c7489.png)
-![image](https://user-images.githubusercontent.com/62185859/112546862-042c1a80-8d88-11eb-8ed2-5b87228d7f82.png)
-![image](https://user-images.githubusercontent.com/62185859/112547092-48b7b600-8d88-11eb-853f-61d8de920cf4.png)
-![image](https://user-images.githubusercontent.com/62185859/112547199-71d84680-8d88-11eb-887f-af70e97fcc0d.png)
-![image](https://user-images.githubusercontent.com/62185859/112547258-874d7080-8d88-11eb-9e42-3ee3c23dc6fb.png)
-![image](https://user-images.githubusercontent.com/62185859/112547635-fcb94100-8d88-11eb-8b90-395b22d283d6.png)
-![image](https://user-images.githubusercontent.com/62185859/112547353-a6e49900-8d88-11eb-8536-ee18e0e9a656.png)
-![image](https://user-images.githubusercontent.com/62185859/112547389-afd56a80-8d88-11eb-8ea7-ee7330f57000.png)
+Ruby - Ruby on Rails - SQL - PostgreSQL - JavaScript - React - HTML - CSS - Material-UI 
 
 ## Let's Connect!
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Apang20)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/avelon-pang-82327360//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@AvelonP)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://avelonpang.medium.com/)  
