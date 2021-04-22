@@ -3,7 +3,7 @@
 
 My name is Avelon Pang and I am a full-stack software engineer. I'm from Austin, Texas and recently graduated from Flatiron School's full-immersive software engineering bootcamp in March 2021. I have a passion for applying new technologies and Nancy Drew-like skills for technical problem solving!
 
-- 🔭 I’m currently working on my portfolio 
+- 🔭 I’m currently working on JS/React applications 
 - 🌱 I’m currently learning React Hooks and Redux 
 - 💬 Ask me about anything! 
 - 😄 Pronouns: she/her/hers 
