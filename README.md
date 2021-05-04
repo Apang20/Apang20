@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   </samp>
   </h1> 
-<img src="https://cdn3.iconfinder.com/data/icons/programming-elements/64/Programmer-developer-coder-woman-avatar-512.png" alt="cartoon girl with computer"/>
+<img src="https://thumbs.dreamstime.com/b/horizontal-banner-hands-typing-laptop-keyboard-various-electronic-devices-symbols-programming-software-horizontal-125917922.jpg" alt="cartoon girl with computer"/>
 <hr>
 
 <p align="center">
