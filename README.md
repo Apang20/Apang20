@@ -26,7 +26,7 @@ When I am not coding or working on applications, you can find me on the dance fl
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />&nbsp;&nbsp;
 </p>
 
-<hr>
+
 
 
 
@@ -38,7 +38,7 @@ When I am not coding or working on applications, you can find me on the dance fl
  </span>
 
 
-<hr>
+
 
 
 <h2 align="center">💬 My Blog Articles</h2>
