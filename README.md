@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   </samp>
   </h1> 
-<img src="https://pctechguides.com/wp-content/uploads/2016/04/prg-banner-201309.jpg" alt="cartoon girl with computer"/>
+<img src="https://cdn3.iconfinder.com/data/icons/programming-elements/64/Programmer-developer-coder-woman-avatar-512.png" alt="cartoon girl with computer"/>
 <hr>
 
 <p align="center">
@@ -71,6 +71,7 @@ When I am not coding or working on applications, you can find me on the dance fl
   
   
 <!--
+<img src="https://pctechguides.com/wp-content/uploads/2016/04/prg-banner-201309.jpg" alt="cartoon girl with computer"/>
 <img src="https://www.webmechanix.com/wp-content/uploads/2017/07/womenintech-banner.png" alt="cartoon girl with computer"/>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Apang20&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apang20&hide=TeX&layout=compact)
