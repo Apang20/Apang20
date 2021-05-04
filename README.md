@@ -23,6 +23,8 @@ When I am not coding or working on applications, you can find me on the dance fl
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />&nbsp;&nbsp;
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
 </p>
 
 <hr>
