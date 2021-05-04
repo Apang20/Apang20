@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   </samp>
   </h1> 
-<img src="https://cdn1.vectorstock.com/i/1000x1000/98/35/coding-system-minimal-infographic-banner-vector-27339835.jpg" alt="cartoon girl with computer"/>
+<img src="https://media1.thehungryjpeg.com/thumbs2/ori_3751743_yt4lc4kgmuyzeahmryiofe9k39x9b1cz4b2qsuzv_coding-system-minimal-infographic-banner-vector.jpg" alt="cartoon girl with computer"/>
 <hr>
 
 <p align="center">
