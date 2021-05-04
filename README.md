@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   </samp>
   </h1> 
-<img src="https://www.inuresoft.com/wp-content/uploads/2018/09/Software-Customization.jpg" alt="header image"/>
+<img src="http://www.brainminetech.com/blog/wp-content/uploads/2017/07/banner-01.png" alt="header image"/>
 <hr>
 
 <p align="center">
