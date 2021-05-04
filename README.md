@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   </samp>
   </h1> 
-<img src="https://i.fbcd.co/products/original/0bf8404524102a7357d97f6c45e7d4c58ebf042e75b465f1cd27ea566a6eeb70.jpg" alt="header image"/>
+<img src="https://thumbs.dreamstime.com/b/horizontal-banner-hands-typing-laptop-keyboard-various-electronic-devices-symbols-programming-software-horizontal-125917922.jpg" alt="header image"/>
 <hr>
 
 <p align="center">
