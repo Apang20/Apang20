@@ -43,6 +43,11 @@ When I am not coding or working on applications, you can find me on the dance fl
 </p>
 
 <hr>
+<hr>
+<p align="center">
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Apang20&show_icons=true) </p>
+<hr>
+
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
   
@@ -54,12 +59,6 @@ When I am not coding or working on applications, you can find me on the dance fl
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@AvelonP) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://avelonpang.medium.com/)  
  
-</p>
-
-<hr>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Apang20&show_icons=true)  
-<hr>
 
 <!--
 - 🔭 I’m currently working on JS/React applications 
