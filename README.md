@@ -28,9 +28,8 @@ When I am not coding or working on applications, you can find me on the dance fl
 
 
 
+<hr>
 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span align="center">
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Apang20&langs_count=5&theme=vue-dark)]()
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -38,7 +37,7 @@ When I am not coding or working on applications, you can find me on the dance fl
  </span>
 
 
-
+<hr>
 
 
 <h2 align="center">💬 My Blog Articles</h2>
