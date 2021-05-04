@@ -26,9 +26,10 @@ When I am not coding or working on applications, you can find me on the dance fl
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />&nbsp;&nbsp;
 </p>
 
-
-
 <hr>
+<hr>
+
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Apang20&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apang20&hide=TeX&layout=compact)
 <hr>
