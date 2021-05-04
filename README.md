@@ -9,13 +9,13 @@ When I am not coding, you can find me on the dance floor, learning a new recipe,
   <img src="https://komarev.com/ghpvc/?username=Apang20" alt="https://github.com/Apang20/" />
 </p>
 
-<p align="center">
+<samp>
 - 🔭 I’m currently working on JS/React applications 
 - 🌱 I’m currently learning React Hooks and Redux 
 - 💬 Ask me about anything! 
 - 😄 Pronouns: she/her/hers 
 - 👑 Fun fact: I was part-time professional Disney princess 
-</p>
+</samp>
 
 ## Skills & Experience 
 Ruby - Ruby on Rails - SQL - JavaScript - React - HTML - CSS - Material-UI - Chakra-UI - Figma
