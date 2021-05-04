@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   </samp>
   </h1> 
-<img src="https://media.istockphoto.com/vectors/software-engineering-banner-and-icons-vector-id636526232?s=612x612" alt="cartoon girl with computer"/>
+<img src="https://previews.123rf.com/images/trueffelpix/trueffelpix1802/trueffelpix180200006/95150923-banner-programming-and-coding-background-vector-illustration-with-icons-and-keywords.jpg" alt="cartoon girl with computer"/>
 <hr>
 
 <p align="center">
