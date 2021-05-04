@@ -29,9 +29,15 @@ When I am not coding or working on applications, you can find me on the dance fl
 <hr>
 <hr>
 
+<hr>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Apang20&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apang20&hide=TeX&layout=compact)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span align="center">
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Apang20&langs_count=5&theme=vue-dark)]()
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Apang20&count_private=true&theme=vue-dark&showicons=true)]()
+ </span>
+
 <hr>
 
 
@@ -57,6 +63,8 @@ When I am not coding or working on applications, you can find me on the dance fl
   
   
 <!--
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Apang20&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apang20&hide=TeX&layout=compact)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Apang20) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/avelon-pang-82327360//) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@AvelonP) 
