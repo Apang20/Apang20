@@ -1,4 +1,9 @@
-# Hello there! Welcome to my GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center">  
+  <samp>
+  Hello there! Welcome to my GitHub! 
+  </samp>
+  </h1> 
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <hr>
 <p align="center">
