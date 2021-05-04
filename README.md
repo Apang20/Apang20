@@ -45,11 +45,10 @@ When I am not coding or working on applications, you can find me on the dance fl
 <hr>
 <hr>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Apang20&show_icons=true) 
-<hr>
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Apang20&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apang20&hide=TeX&layout=compact)
-
+<hr>
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
   
   
