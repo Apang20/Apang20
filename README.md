@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   </samp>
   </h1> 
-<img src="https://image.freepik.com/free-vector/coding-system-banner_87720-2994.jpg" alt="cartoon girl with computer"/>
+<img src="https://i.fbcd.co/products/original/0bf8404524102a7357d97f6c45e7d4c58ebf042e75b465f1cd27ea566a6eeb70.jpg" alt="header image"/>
 <hr>
 
 <p align="center">
