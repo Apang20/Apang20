@@ -29,9 +29,8 @@ When I am not coding or working on applications, you can find me on the dance fl
 
 
 <hr>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span align="center">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Apang20&count_private=true&theme=vue-dark&showicons=true)]()
  </span>
 <!--  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
