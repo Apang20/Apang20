@@ -5,7 +5,7 @@
   </samp>
   </h1> 
 <img src="https://www.x-cart.com/wp-content/uploads/2017/09/how-to-become-a-web-developer.png" alt="header image"/>
-<hr>
+
 
 <p align="center">
   <samp>
