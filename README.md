@@ -39,6 +39,7 @@ When I am not coding or working on applications, you can find me on the dance fl
  </span>
 
 <hr>
+<hr>
 
 
 <h2 align="center">💬 My Blog Articles</h2>
