@@ -1,5 +1,22 @@
 # Hello there! Welcome to my GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+<h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<div align="center">
+
+</div>
+<p align="center"> (Open for Hiring)</p>
+
+<h2 align="center"> 👨‍💻 Whoami</h2>
+<p align="center">
+  <samp> 
+     My name is Avelon Pang and I am a highly resourceful full-stack software engineer. I'm from Austin, Texas and recently graduated from Flatiron School's full-immersive software engineering bootcamp in March 2021. I have a passion for applying new technologies and Nancy Drew-like skills for technical problem solving! I 
+When I am not coding or working on applications, you can find me on the dance floor, learning a new recipe, or going on hikes! 
+  </samp>
+  <br> <br>
+  <img src="https://komarev.com/ghpvc/?username=ileriayo" alt="https://github.com/ileriayo" />
+</p>
+
+<hr>
 <p align="center">
   <samp>
    My name is Avelon Pang and I am a full-stack software engineer. I'm from Austin, Texas and recently graduated from Flatiron School's full-immersive software engineering bootcamp in March 2021. I have a passion for applying new technologies and Nancy Drew-like skills for technical problem solving! I 
@@ -35,7 +52,10 @@ When I am not coding or working on applications, you can find me on the dance fl
 
 <h2  align="center">📫 Let's Connect!</h2>
 <p align="center" align='right'>
-
+  
+  
+  
+<!--
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Apang20) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/avelon-pang-82327360//) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@AvelonP) 
