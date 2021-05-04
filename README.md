@@ -44,8 +44,8 @@ When I am not coding or working on applications, you can find me on the dance fl
 
 <hr>
 <hr>
-<p align="center">
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Apang20&show_icons=true) </p>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Apang20&show_icons=true) 
 <hr>
 
 
