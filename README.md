@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   </samp>
   </h1> 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXsDzOau3S07vVhkAL3GZSTKcCRydrQM77sQ&usqp=CAU" alt="cartoon girl with computer"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTE4J-7zTbY830yJvPbUBLhMDaUCF31TH-IA&usqp=CAU" alt="cartoon girl with computer"/>
 <hr>
 
 <p align="center">
