@@ -4,8 +4,9 @@
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   </samp>
   </h1> 
-
+<img src="https://www.webmechanix.com/wp-content/uploads/2017/07/womenintech-banner.png" alt="cartoon girl with computer"/>
 <hr>
+
 <p align="center">
   <samp>
    My name is Avelon Pang and I am a highly resourceful full-stack software engineer. I'm from Austin, Texas and recently graduated from Flatiron School's full-immersive software engineering bootcamp in March 2021. I have a passion for applying new technologies and Nancy Drew-like skills for technical problem solving! I 
