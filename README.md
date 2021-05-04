@@ -36,7 +36,7 @@ When I am not coding or working on applications, you can find me on the dance fl
 <h2  align="center">📫 Let's Connect!</h2>
 <p align="center" align='right'>
 
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Apang20) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Apang20) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/avelon-pang-82327360//) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@AvelonP) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://avelonpang.medium.com/)  
@@ -49,5 +49,20 @@ When I am not coding or working on applications, you can find me on the dance fl
 <hr>
 
 
+- 🔭 I’m currently working on JS/React applications 
+- 🌱 I’m currently learning React Hooks and Redux 
+- 💬 Ask me about anything! 
+- 😄 Pronouns: she/her/hers 
+- 👑 Fun fact: I was part-time professional Disney princess 
+
+<!--
+## Skills & Experience 
+Ruby - Ruby on Rails - SQL - JavaScript - React - HTML - CSS - Material-UI - Chakra-UI - Figma
+
+## Let's Connect!
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Apang20)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/avelon-pang-82327360//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@AvelonP)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://avelonpang.medium.com/)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Apang20&show_icons=true)  
+-->
 
  
