@@ -1,9 +1,5 @@
 # Hello there! Welcome to my GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<p align="center"> (Open for Hiring)</p>
-
-  <br> <br>
-  
 <hr>
 <p align="center">
   <samp>
