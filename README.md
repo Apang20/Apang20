@@ -27,6 +27,24 @@ When I am not coding or working on applications, you can find me on the dance fl
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Apang20&show_icons=true)  
 <hr>
 
+<hr>
+
+<h2 align="center">💬 My Blog Articles</h2>
+<p align="center" align='right'>
+  <a target="_blank"href="https://avelonpang.medium.com/"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+</p>
+
+<hr>
+
+<h2  align="center">📫 Reach me on</h2>
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/avelon-pang-82327360/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="avelonpang@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<hr>
+
 ## Let's Connect!
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Apang20)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/avelon-pang-82327360//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@AvelonP)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://avelonpang.medium.com/)  
 
