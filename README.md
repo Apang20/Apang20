@@ -29,7 +29,6 @@ When I am not coding or working on applications, you can find me on the dance fl
 <hr>
 <hr>
 
-<hr>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span align="center">
