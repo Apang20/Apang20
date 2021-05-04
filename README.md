@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   </samp>
   </h1> 
-<img src="https://www.webmechanix.com/wp-content/uploads/2017/07/womenintech-banner.png" alt="cartoon girl with computer"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXsDzOau3S07vVhkAL3GZSTKcCRydrQM77sQ&usqp=CAU" alt="cartoon girl with computer"/>
 <hr>
 
 <p align="center">
@@ -71,6 +71,7 @@ When I am not coding or working on applications, you can find me on the dance fl
   
   
 <!--
+<img src="https://www.webmechanix.com/wp-content/uploads/2017/07/womenintech-banner.png" alt="cartoon girl with computer"/>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Apang20&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apang20&hide=TeX&layout=compact)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Apang20) 
