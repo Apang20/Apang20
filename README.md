@@ -47,7 +47,7 @@ When I am not coding or working on applications, you can find me on the dance fl
 <hr>
 
 
-<h2 align="center">💬 My Blog Articles</h2>
+<h2 align="center"> <samp> 💬 My Blog Articles </samp></h2>
 <p align="center" align='right'>
   <a target="_blank"href="https://avelonpang.medium.com/"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
@@ -55,7 +55,7 @@ When I am not coding or working on applications, you can find me on the dance fl
 <hr>
   <hr>
 
-<h2  align="center">📫 Let's Connect!</h2>
+<h2  align="center"><samp> 📫 Let's Connect! </samp></h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/avelon-pang-82327360/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://twitter.com/AvelonP"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -64,7 +64,7 @@ When I am not coding or working on applications, you can find me on the dance fl
 
 <hr>
 
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+<h2  align="center"><samp>💻 Check Out My Repos ⬇️ </samp></h2>
   
   
   
