@@ -18,7 +18,7 @@
    When I am not coding or building applications, you can find me on the dance floor, tennis court, or hiking in nature 🌻
     </samp>
   <br><br>
-    <img src="https://komarev.com/ghpvc/?username=Apang20" alt="https://github.com/Apang20/" />
+<!--     <img src="https://komarev.com/ghpvc/?username=Apang20" alt="https://github.com/Apang20/" /> -->
   </p>
   <br> <br>
   
@@ -44,6 +44,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span align="center">
   [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Apang20&count_private=true&theme=vue-dark&showicons=true)]()
+      <img src="https://komarev.com/ghpvc/?username=Apang20" alt="https://github.com/Apang20/" />
+
  </span>
 <!--  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Apang20&count_private=true&theme=vue-dark&showicons=true)]()
