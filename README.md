@@ -54,14 +54,14 @@
 <hr>
 
 
-<h2 align="center"> <samp> 💬 My Blog Articles </samp></h2>
+<h2 align="center"> <samp> <b>💬 My Blog Articles <b> </samp></h2>
 <p align="center" align='right'>
   <a target="_blank"href="https://avelonpang.medium.com/"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
 
-<h2  align="center"><samp> 📫 Let's Connect! </samp> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> </h2>
+<h2  align="center"><samp><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><b> Let's Connect! <b></samp> </h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/avelon-pang-82327360/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://twitter.com/AvelonP"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
