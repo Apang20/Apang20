@@ -21,9 +21,7 @@
     <img src="https://komarev.com/ghpvc/?username=Apang20" alt="https://github.com/Apang20/" />
   </p>
   <br> <br>
-
-
-
+  
 <hr>
 <h2 align="center"> 🔭 <samp> Technologies </samp> </h2>
 <p align="center">
