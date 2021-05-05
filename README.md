@@ -71,8 +71,7 @@
 </p>
 
 <hr>
-  <img height="100%" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
-
+  <img height="100%" alt="Thanks for visiting my profile!" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
  <hr>  
 <!--
 <h2  align="center"><samp>💻 Check Out My Repos ⬇️ </samp></h2>
