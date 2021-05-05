@@ -40,7 +40,7 @@
 <hr>
 
 
-&nbsp;&nbsp;
+&nbsp;
 <span>
   [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Apang20&count_private=true&theme=blue-green)]()
   [![MyGitHub Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=Apang20&theme=blue-green)]()
