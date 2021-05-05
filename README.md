@@ -61,7 +61,7 @@
 
 <hr>
 
-<h2  align="center"><samp><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><b> Let's Connect! <b></samp> </h2>
+<h2  align="center"><samp>📬<b>Let's Connect<b></samp> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"></h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/avelon-pang-82327360/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://twitter.com/AvelonP"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
