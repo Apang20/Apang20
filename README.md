@@ -11,47 +11,7 @@
   <samp>
    My name is Avelon Pang and I am a highly resourceful full-stack software engineer from Austin, Texas. I recently graduated from Flatiron School's full-immersive software engineering bootcamp in March 2021 and I have a passion for applying new technologies as well as Nancy Drew-like skills for technical problem solving!  With a background in fundraising and education, I've collaborated cross-culturally in Spanish and Mandarin in my previous roles. I’m excited to combine my years of international work experience and strong communication skills with my new expertise in programming to a new opportunity as a developer!
   </samp>
-  </p> 
-  
-  <svg fill="none" viewBox="0 0 800 50" width="800" height="50" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
-			<style>
-        .marquee {
-          height: 50px;	
-          overflow: hidden;
-          position: relative;
-        }
-        .marquee strong {
-          font-family: "Comic Sans", "Comic Sans MS", Chalkboard, ChalkboardSE-Regular, "Marker Felt", Purisa, "URW Chancery L", cursive, sans-serif !important;
-          color: limegreen;
-          position: absolute;
-          font-size: 1.2em;
-          width: 100%;
-          height: 100%;
-          margin: 0;
-          line-height: 50px;
-          text-align: center;
-          transform:translateX(100%);
-          animation: marquee 7s linear infinite;
-        }
-        @keyframes marquee {
-          0%   { 
-            transform: translateX(100%); 		
-          }
-          100% { 
-            transform: translateX(-80%); 
-          }
-        }
-      </style>
-      <div class="marquee">
-        <strong>Thanks for visiting my profile, see you next time!</strong>
-      </div>
-		</div>
-	</foreignObject>
-</svg>
-  
-  
+  </p>
   
   <br>
   <p align="center">
