@@ -6,7 +6,6 @@
   </h1> 
 <img src="https://www.x-cart.com/wp-content/uploads/2017/09/how-to-become-a-web-developer.png" alt="header image" width="1100px" height="230px"/>
 
-<hr>
 <p align="center">
   <samp>
    My name is Avelon Pang and I am a highly resourceful full-stack software engineer from Austin, Texas. I recently graduated from Flatiron School's full-immersive software engineering bootcamp in March 2021 and I have a passion for applying new technologies as well as Nancy Drew-like skills for technical problem solving!  With a background in fundraising and education, I've collaborated cross-culturally in Spanish and Mandarin in my previous roles. I’m excited to combine my years of international work experience and strong communication skills with my new expertise in programming to a new opportunity as a developer!
