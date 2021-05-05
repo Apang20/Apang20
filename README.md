@@ -68,8 +68,8 @@
   <a target="_blank"href="https://twitter.com/AvelonP"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:avelonpang@gmail.com?subject=Hello%20Avelon,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   	<a target-"_blank" href="https://app.slack.com/client/T02MD9XTF/D01C3HYTVFH?cdn_fallback=1"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="Discord" src="https://img.shields.io/badge/%3CAvelon#6252%3E-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
-
+<!--   <img alt="Discord" src="https://img.shields.io/badge/%3CAvelon#6252%3E-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
+ -->
 </p>
 <hr>  
 <img height="100%" alt="Thanks for visiting my profile!" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
