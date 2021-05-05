@@ -39,12 +39,14 @@
 
 <hr>
 
+ <p align="center">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<span alight="left">
+<span>
   [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Apang20&count_private=true&theme=blue-green)]()
   [![MyGitHub Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=Apang20&theme=blue-green)]()
 <!--       <img src="https://komarev.com/ghpvc/?username=Apang20" alt="https://github.com/Apang20/" /> -->
  </span>
+  </p>
 <!--  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Apang20&count_private=true&theme=vue-dark&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Apang20&langs_count=5&theme=vue-dark)]()
