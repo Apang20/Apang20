@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
   </samp>
   </h1> 
-<img src="https://www.x-cart.com/wp-content/uploads/2017/09/how-to-become-a-web-developer.png" alt="header image" width="1000px" height="500px"/>
+<img src="https://www.x-cart.com/wp-content/uploads/2017/09/how-to-become-a-web-developer.png" alt="header image" width="1100px" height="200px"/>
 
 <hr>
 <p align="center">
