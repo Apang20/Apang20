@@ -46,8 +46,6 @@
   [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Apang20&count_private=true&theme=vue-dark&showicons=true)]()
   [![MyGitHub Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=Apang20&theme=vue-dark&showicons=true)]()
       <img src="https://komarev.com/ghpvc/?username=Apang20" alt="https://github.com/Apang20/" />
-  <img src="https://img.shields.io/github/followers/Apang20.svg?style=social&label=Follow&maxAge=2592000" />
-
  </span>
 <!--  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Apang20&count_private=true&theme=vue-dark&showicons=true)]()
