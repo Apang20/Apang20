@@ -60,7 +60,6 @@
 </p>
 
 <hr>
-  <hr>
 
 <h2  align="center"><samp> 📫 Let's Connect! </samp></h2>
 <p align="center">
