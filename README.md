@@ -15,7 +15,7 @@
   <br>
   <p align="center">
    <samp>
-   🖥️ When I am not coding or building applications, you can find me on the dance floor, tennis court, or hiking in nature 🌻
+   When I am not coding or building applications, you can find me on the dance floor, tennis court, or hiking in nature 🌻
     </samp>
   </p>
   <br> <br>
