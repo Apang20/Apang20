@@ -46,7 +46,7 @@
 
 <hr>
 
-<h2 align="center"> <samp> <img src="https://monophy.com/media/lqAXW6Y8dtO5Qwfi37/monophy.gif" width=50>My Blog Articles  </samp></h2>
+<h2 align="center"> <samp> <img src="https://monophy.com/media/lqAXW6Y8dtO5Qwfi37/monophy.gif" width=50>Blog Articles  </samp></h2>
 <p align="center" align='right'>
   <a target="_blank"href="https://avelonpang.medium.com/"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
