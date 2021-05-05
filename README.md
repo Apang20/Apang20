@@ -1,10 +1,10 @@
 <h1 align="center">  
   <samp>
   Hello there! Welcome to my GitHub! 
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
   </samp>
   </h1> 
-<img src="https://www.x-cart.com/wp-content/uploads/2017/09/how-to-become-a-web-developer.png" alt="header image"/>
+<img src="https://www.x-cart.com/wp-content/uploads/2017/09/how-to-become-a-web-developer.png" alt="header image" width="100%" height="60%"/>
 
 <hr>
 <p align="center">
@@ -60,9 +60,9 @@
   <a href="mailto:avelonpang@gmail.com?subject=Hello%20Avelon,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   	<a target-"_blank" href="https://app.slack.com/client/T02MD9XTF/D01C3HYTVFH?cdn_fallback=1"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /> </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-  <img height="100%" alt="Thanks for visiting my profile!" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+<hr>  
+<img height="100%" alt="Thanks for visiting my profile!" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 
-<hr>
 
 <!--
 <h2  align="center"><samp>💻 Check Out My Repos ⬇️ </samp></h2>
