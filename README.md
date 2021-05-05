@@ -17,9 +17,9 @@
    <samp>
    When I am not coding or building applications, you can find me on the dance floor, tennis court, or hiking in nature 🌻
     </samp>
+    <img src="https://komarev.com/ghpvc/?username=Apang20" alt="https://github.com/Apang20/" />
   </p>
   <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=Apang20" alt="https://github.com/Apang20/" />
 
 
 
