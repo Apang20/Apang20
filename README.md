@@ -37,7 +37,6 @@
 </p>
 
 
-
 <hr>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -71,12 +70,11 @@
 </p>
 
 <hr>
+  <img height="130" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 
-<h2  align="center"><samp>  <img height="130" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
-</samp></h2>
  <hr>  
 <!--
-💻 Check Out My Repos ⬇️ 
+<h2  align="center"><samp>💻 Check Out My Repos ⬇️ </samp></h2>
 <img src="https://previews.123rf.com/images/trueffelpix/trueffelpix1802/trueffelpix180200006/95150923-banner-programming-and-coding-background-vector-illustration-with-icons-and-keywords.jpg" alt="cartoon girl with computer"/>
 <img src="https://pctechguides.com/wp-content/uploads/2016/04/prg-banner-201309.jpg" alt="cartoon girl with computer"/>
 <img src="https://www.webmechanix.com/wp-content/uploads/2017/07/womenintech-banner.png" alt="cartoon girl with computer"/>
