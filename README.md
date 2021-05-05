@@ -13,7 +13,6 @@
   </samp>
   </p>
   
-  <br>
   <p align="center">
    <samp>
    When I am not coding or building applications, you can find me on the dance floor, tennis court, or hiking in nature 🌻
@@ -21,7 +20,6 @@
   <br><br>
 <!--     <img src="https://komarev.com/ghpvc/?username=Apang20" alt="https://github.com/Apang20/" /> -->
   </p>
-  <br> <br>
   
 <hr>
 <h2 align="center"> 🔭 <samp> Technologies </samp> </h2>
