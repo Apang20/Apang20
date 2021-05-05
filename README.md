@@ -72,6 +72,7 @@
 <hr>  
 <img height="100%" alt="Thanks for visiting my profile!" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 
+<img alt="Discord" src="https://img.shields.io/badge/%3CAvelon#6252%3E-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
 
 <!--
 <h2  align="center"><samp>💻 Check Out My Repos ⬇️ </samp></h2>
