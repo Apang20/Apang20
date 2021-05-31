@@ -16,7 +16,7 @@
   
   <p align="center">
    <samp>
-   When I'm not coding, you can find me on the dance floor, tennis court, or hiking in nature.
+   When I'm not coding, you can find me on the dance floor, tennis court, or exploring new recipes.
     </samp>
   <br><br><br>
     <img src="https://komarev.com/ghpvc/?username=Apang20" alt="https://github.com/Apang20/" />
