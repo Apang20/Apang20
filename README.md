@@ -16,7 +16,7 @@
   
   <p align="center">
    <samp>
-   When I'm not coding, you can find me on the dance floor, tennis court, or exploring new recipes.
+   When I'm not coding, you can find me on the dance floor, tennis court, or volunteering at the local animal shelter.
     </samp>
   <br><br><br>
     <img src="https://komarev.com/ghpvc/?username=Apang20" alt="https://github.com/Apang20/" />
@@ -92,7 +92,7 @@
 - 🔭 I’m currently working on JS/React applications 
 - 🌱 I’m currently learning React Hooks and Redux 
 - 💬 Ask me about anything! 
-- 😄 Pronouns: she/her/hers 
+- 😄 Pronouns: she/her/hers/ella 
 - 👑 Fun fact: I was part-time professional Disney princess 
 
 <!--
