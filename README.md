@@ -10,7 +10,9 @@
 
 <p align="center">
   <samp>
-   My name is Avelon Pang and I am a highly resourceful full-stack software engineer from Austin, Texas. I recently graduated from Flatiron School's full-immersive software engineering bootcamp in March 2021 and have a passion for applying new technologies as well as Nancy Drew-like skills for technical problem solving!  With a background in fundraising and education, I've collaborated cross-culturally in Spanish and Mandarin in my previous roles. I’m excited to combine my years of international work experience and strong communication skills with my new expertise in programming to launch a new career as a developer!
+   My name is Avelon Pang and I am a highly resourceful full-stack software engineer from Austin, Texas. I recently graduated from Flatiron School's full-immersive software engineering bootcamp in March 2021 and have a passion for applying new technologies as well as Nancy Drew-like skills for technical problem solving!  With a background in fundraising and education, I've collaborated cross-culturally in Spanish and Mandarin in my previous roles.
+    
+    I’m excited to combine my years of international work experience and strong communication skills with my new expertise in programming to launch a new career as a developer!
   </samp>
   </p>
   
@@ -50,8 +52,8 @@
 <hr>
 
 <!-- <h2 align="center"> <samp> <img src="https://monophy.com/media/lqAXW6Y8dtO5Qwfi37/monophy.gif" width=50>My Blog Articles</samp></h2> -->
-<h2 align="center"> Blogs & Publications</h2>
-
+<h2 align="center"> Publications</h2>
+<p> Published writer for Geek Culture, CodeX and NerdForTech. </p>
 <p align="center" align='right'>
   <a target="_blank" href="https://avelonpang.medium.com/">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
