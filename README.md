@@ -13,12 +13,12 @@
    My name is Avelon Pang and I am a highly resourceful full-stack software engineer from Austin, Texas. I recently graduated from Flatiron School's full-immersive software engineering bootcamp in March 2021 and have a passion for applying new technologies as well as Nancy Drew-like skills for technical problem solving!  With a background in fundraising and education, I've collaborated cross-culturally in Spanish and Mandarin in my previous roles.  I’m excited to combine my years of international work experience and strong communication skills with my new expertise in programming to launch a new career as a developer! 
  <p align="center">
    <samp>   
-Please feel free to checkout my website https://avelonpang.com/
+Please feel free to checkout my website: https://avelonpang.com/
   </samp>
    </p>
   </samp>
   </p>
-  
+  <br><br><br>
   <p align="center">
    <samp>
    When I'm not coding, you can find me on the dance floor, tennis court, or volunteering at the local animal shelter.
