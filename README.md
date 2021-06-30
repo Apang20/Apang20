@@ -23,9 +23,10 @@
      <b>Please feel free to checkout my website: https://avelonpang.com/</b>
   </samp>
    </p>
+   
   <br><br><br>
    
-
+<p>
     <img src="https://komarev.com/ghpvc/?username=Apang20" alt="https://github.com/Apang20/" />
   </p>
   
