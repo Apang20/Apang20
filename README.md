@@ -18,13 +18,14 @@
    <samp>
    When I'm not coding, you can find me on the dance floor, tennis court, or volunteering at the local animal shelter.
     </samp>
+  <br>
   <p align="center">
    <samp>   
      <b>Please feel free to checkout my website: https://avelonpang.com/</b>
   </samp>
    </p>
    
-  <br><br><br>
+  <br><br>
    
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Apang20" alt="https://github.com/Apang20/" />
