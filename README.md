@@ -19,7 +19,7 @@
    When I'm not coding, you can find me on the dance floor, tennis court, or volunteering at the local animal shelter.
     </samp>
   <br><br><br>
-      <a target="_blank" href="https://avelonpang.com" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <a target="_blank" href="https://avelonpang.com" </a>
 
 
     <img src="https://komarev.com/ghpvc/?username=Apang20" alt="https://github.com/Apang20/" />
