@@ -20,9 +20,9 @@
     </samp>
   <br><br><br>
    
- <h2 align="center" Feel free to checkout my >
+ <p align="center">
   [Website](https://avelonpang.com/)
-<!/h2>
+</p>
 
     <img src="https://komarev.com/ghpvc/?username=Apang20" alt="https://github.com/Apang20/" />
   </p>
