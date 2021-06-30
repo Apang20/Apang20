@@ -18,7 +18,7 @@ Please feel free to checkout my website: https://avelonpang.com/
    </p>
   </samp>
   </p>
-  <br><br><br>
+  <br>
   <p align="center">
    <samp>
    When I'm not coding, you can find me on the dance floor, tennis court, or volunteering at the local animal shelter.
