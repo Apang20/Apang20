@@ -26,7 +26,7 @@
    
   <br><br><br>
    
-<p>
+<p align="center">
     <img src="https://komarev.com/ghpvc/?username=Apang20" alt="https://github.com/Apang20/" />
   </p>
   
