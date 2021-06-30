@@ -19,9 +19,10 @@
    When I'm not coding, you can find me on the dance floor, tennis court, or volunteering at the local animal shelter.
     </samp>
   <br><br><br>
-       
-  [Website](https://avelonpang.com/)
-
+   
+ <h2 align="center">
+  Feel free to checkout my [Website](https://avelonpang.com/)!
+</h2>
 
     <img src="https://komarev.com/ghpvc/?username=Apang20" alt="https://github.com/Apang20/" />
   </p>
