@@ -1,6 +1,6 @@
 <h1 align="center">  
   <samp>
-  Hello there! Welcome to my GitHub! 
+  Welcome to my GitHub! 
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
   </samp>
   </h1> 
