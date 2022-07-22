@@ -21,9 +21,6 @@
     </samp>
   <br>
   <p align="center">
-   <samp>   
-     <b>Please feel free to checkout my website: https://avelonpang.com/</b>
-  </samp>
    </p>
    
   <br><br>
